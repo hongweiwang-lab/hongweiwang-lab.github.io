@@ -22,7 +22,7 @@ repository               : "hongweiwang-lab/hongweiwang-lab.github.i"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Hongwei.png"
+  avatar           : "Hongwei.jpg"
   name             : "Hongwei Wang"
   pronouns         : # example: "she/her"  
   bio              : "Senior Scientist, IHPC, A*STAR"
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/hong-wei-wang-79483516a"
+  linkedin         : "hong-wei-wang-79483516a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
