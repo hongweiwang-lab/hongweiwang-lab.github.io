@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hongwei Wang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a Senior Scientist currently at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR), Singapore. 
+
+Before joining A*STAR, I worked as a Research Scientist at Perception Department at Autonomous Driving Solution and Scenario Research at Smart Transportation Solution, Huawei, Beijing. I contributed to autonomous driving through behavior intention modeling and trajectory prediction using large-scale Transformer models, as well as to smart transportation by optimizing charging scheduling for electric buses and designing vehicle-road collaboration systems. I was also a reseach intern at DiDi Chuxing’s Smart Transportation Lab, working on graph neural network models for transportation resilience.
+
+I received my Ph.D. in Civil Engineering (intelligent transportation) from Shanghai Jiao Tong University, supervised by Prof. Zhong-Ren Peng (https://dcp.ufl.edu/faculties/peng-zhong-ren/). I was also a two-year joint Ph.D. stint in Civil Engineering at the University of Florida, sponsored by the China Scholarship Council (CSC). I earned my B.S. in Transportation Engineering from Southwest Jiaotong University.
+
+I am passionate about leveraging artificial intelligence to predict and optimize complex transportation systems, and I remain open to new collaborations and interdisciplinary research opportunities. Feel free to reach out if you are interested in discussing innovative ideas in AI-driven transportation and urban systems.
+
 
 A data-driven personal website
 ======
