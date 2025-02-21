@@ -1,19 +1,32 @@
 ---
-permalink: /
-title: "Hongwei Wang"
+title: Hongwei Wang
+permalink: "/"
+excerpt: About me
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+layout: archive
+redirect_from:
+- "/about/"
+- "/about.html"
 ---
 
 I am a Senior Scientist currently at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR), Singapore. 
 
-Before joining A*STAR, I worked as a Research Scientist at Perception Department at Autonomous Driving Solution and Scenario Research at Smart Transportation Solution, Huawei, Beijing. I contributed to autonomous driving through behavior intention modeling and trajectory prediction using large-scale Transformer models, as well as to smart transportation by optimizing charging scheduling for electric buses and designing vehicle-road collaboration systems. I was also a reseach intern at DiDi Chuxing’s Smart Transportation Lab, working on graph neural network models for transportation resilience.
+Before joining A*STAR, I worked as a Research Scientist in the Perception Department at Autonomous Driving Solution and in Scenario Research at Smart Transportation Solution, Huawei, Beijing. There, I contributed to autonomous driving through behavior intention modeling and trajectory prediction using large-scale Transformer models, as well as to smart transportation by optimizing charging scheduling for electric buses and designing vehicle–road collaboration systems. I also served as a research intern at DiDi Chuxing’s Smart Transportation Lab, where I worked on graph neural network models for transportation resilience.
 
-I received my Ph.D. in Civil Engineering (intelligent transportation) from Shanghai Jiao Tong University, supervised by Prof. Zhong-Ren Peng (https://dcp.ufl.edu/faculties/peng-zhong-ren/). I was also a two-year joint Ph.D. stint in Civil Engineering at the University of Florida, sponsored by the China Scholarship Council (CSC). I earned my B.S. in Transportation Engineering from Southwest Jiaotong University.
+I received my Ph.D. in Civil Engineering (intelligent transportation) from Shanghai Jiao Tong University, supervised by Prof. Zhong-Ren Peng. As part of my doctoral research, I was also a two-year joint Ph.D. student in Civil Engineering at the University of Florida, sponsored by the China Scholarship Council (CSC). I also earned my B.S. in Transportation Engineering from Southwest Jiaotong University.
 
-I am passionate about leveraging artificial intelligence to predict and optimize complex transportation systems, and I remain open to new collaborations and interdisciplinary research opportunities. Feel free to reach out if you are interested in discussing innovative ideas in AI-driven transportation and urban systems.
+My research spans several areas: AI-Driven Prediction & Optimization for Complex Systems, Prediction and Planning for Electrified & Autonomous Transportation, and Data-Driven Spatiotemporal Modeling for Resilient and Energy-Efficient Transportation. I am passionate about leveraging artificial intelligence to enhance learning, prediction, and optimization in complex transportation systems, including autonomous and electric transport across urban, airport, and maritime scenarios, ultimately aiming to improve intelligence, resilience, and energy efficiency. I am always open to new collaborations and interdisciplinary research opportunities—feel free to reach out if you’re interested in exploring innovative ideas in AI-driven transportation and complex systems.
+
+<!-- ## Research Focus 
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th width="100%">&nbsp;</th>
+    </tr>
+  </thead>
+</table>
+
+Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Transportation, Urban Computing -->
 
 
 A data-driven personal website
