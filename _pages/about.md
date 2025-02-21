@@ -9,6 +9,8 @@ redirect_from:
 - "/about.html"
 ---
 
+{This personal site is still under construction. hahhaa! Almost there… check back later! -Hongwei}
+
 I am a Senior Scientist currently at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR), Singapore. 
 
 Before joining A*STAR, I worked as a Research Scientist in the Perception Department at Autonomous Driving Solution and in Scenario Research at Smart Transportation Solution, Huawei, Beijing. There, I contributed to autonomous driving through behavior intention modeling and trajectory prediction using large-scale Transformer models, as well as to smart transportation by optimizing charging scheduling for electric buses and designing vehicle–road collaboration systems. I also served as a research intern at DiDi Chuxing’s Smart Transportation Lab, where I worked on graph neural network models for transportation resilience.
