@@ -17,21 +17,14 @@ Before joining A*STAR, I worked as a Research Scientist in the Perception Depart
 
 I received my Ph.D. in Civil Engineering (intelligent transportation) from Shanghai Jiao Tong University, supervised by Prof. Zhong-Ren Peng. As part of my doctoral research, I was also a two-year joint Ph.D. student in Civil Engineering at the University of Florida, sponsored by the China Scholarship Council (CSC). I also earned my B.S. in Transportation Engineering from Southwest Jiaotong University.
 
-My research spans several areas: AI-Driven Prediction & Optimization for Complex Systems, Prediction and Planning for Electrified & Autonomous Transportation, and Data-Driven Spatiotemporal Modeling for Resilient and Energy-Efficient Transportation. I am passionate about leveraging artificial intelligence to enhance learning, prediction, and optimization in complex transportation systems, including autonomous and electric transport across urban, airport, and maritime scenarios, ultimately aiming to improve intelligence, resilience, and energy efficiency. I am always open to new collaborations and interdisciplinary research opportunities—feel free to reach out if you’re interested in exploring innovative ideas in AI-driven transportation and complex systems.
+My research spans several areas: **AI-driven prediction & optimization for complex systems**, **Prediction and planning for electrified & autonomous transportation**, and **Data-driven spatiotemporal modeling for resilient, sustainable and energy-efficient transportation**. I am passionate about leveraging artificial intelligence to enhance learning, prediction, and optimization in complex transportation systems, including autonomous and electric transport across urban, airport, and maritime scenarios, ultimately aiming to improve intelligence, resilience, and energy efficiency. I am always open to new collaborations and interdisciplinary research opportunities—feel free to reach out if you’re interested in exploring innovative ideas in AI-driven transportation and complex systems.
 
 ## Research Focus 
-<table style="width:100%">
-  <thead>
-    <tr>
-      <th width="100%">&nbsp;</th>
-    </tr>
-  </thead>
-</table>
 
-Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Transportation, Urban Computing -->
+Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Transportation, Urban Computing
+
 
 ## Work Experience
-
 <html>
 <head>
     <meta charset="UTF-8">
@@ -57,7 +50,6 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
 </html>
 
 ## Education
-
 <html>
 <head>
     <meta charset="UTF-8">
@@ -83,25 +75,26 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
 </body>
 </html>
 
-## News 
-<table style="width:100%">
-  <thead>
-    <tr>
-      <th width="100%">&nbsp;</th>
-    </tr>
-  </thead>
-</table>
-
 
 ## For Prospective Students
-<table style="width:100%">
-  <thead>
-    <tr>
-      <th width="100%">&nbsp;</th>
-    </tr>
-  </thead>
-</table>
-* I'm looking for Master and Ph.D. student applicants and undergrad interns. Please feel free to contact me if you are interested in working on "AI + Transportation" topics.
+<html>
+<head>
+    <meta charset="UTF-8">
+<!--     <title>Opportunities</title> -->
+</head>
+<body>
+    <p>
+        I am looking for Visiting Ph.D. student applicants (sponsored by 
+        <a href="https://www.csc.edu.cn/">CSC</a> or the 
+        <a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-research-attachment-programme">A*STAR ARAP Scholarship</a>) 
+        and Master interns (funded by our projects or the 
+        <a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-research-attachment-programme">SIPGA Scholarship</a>).
+    </p>
+    <p>
+        If you're interested in working on AI + Transportation topics, feel free to reach out!
+    </p>
+</body>
+</html>
 
 
 ## Featured Research
@@ -188,7 +181,6 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
         Characterizing spatiotemporal distributions of black carbon and PM2.5 at a toll station: Observations on manual and electronic toll collection lanes. <br>
         <i>Building and Environment, 199, 107933.</i> <a href="https://doi.org/10.1016/j.buildenv.2021.107933">PDF</a>
     </div>
-</html>
 
 
 
