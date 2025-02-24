@@ -73,32 +73,27 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
     <div class="publication">
         Wang, H. W., Peng, Z. R., Wang, D., Meng, Y., Wu, T., Sun, W.*, Lu, Q. C.* (2020). <br>
         Evaluation and prediction of transportation resilience under extreme weather events: A diffusion graph convolutional approach. <br>
-        <i>Transportation Research Part C: Emerging Technologies, 115, 102619.</i>
-        <a href="https://doi.org/10.1016/j.trc.2020.102619">DOI</a>
+        <i>Transportation Research Part C: Emerging Technologies, 115, 102619.</i> <a href="https://doi.org/10.1016/j.trc.2020.102619">PDF</a>
     </div>
     <div class="publication">
         Wang, H. W., Li, X. B., Wang, D., Zhao, J., He, H. D.*, Peng, Z. R.* (2020). <br>
         Regional prediction of ground-level ozone using a hybrid sequence-to-sequence deep learning approach. <br>
-        <i>Journal of Cleaner Production, 253, 119841.</i> <br>
-        <a href="https://doi.org/10.1016/j.jclepro.2019.119841">DOI</a>
+        <i>Journal of Cleaner Production, 253, 119841.</i> <a href="https://doi.org/10.1016/j.jclepro.2019.119841">PDF</a>
     </div>
     <div class="publication">
         Wang, H. W., Peng, Z. R.*, Lu, Q. C., Sun, D., Bai, C. (2018). <br>
         Assessing effects of bus service quality on passengers’ taxi-hiring behavior. <br>
-        <i>Transport, 33(4), 1030-1044.</i> 
-        <a href="https://doi.org/10.3846/16484142.2016.1275786">DOI</a>
+        <i>Transport, 33(4), 1030-1044.</i> <a href="https://doi.org/10.3846/16484142.2016.1275786">PDF</a>
     </div>
     <div class="publication">
         Wang, D., Wang, H. W.*, Li, C., Lu, K. F., Peng, Z. R., Zhao, J., Fu, Q., Pan, J. (2020). <br>
         Roadside air quality forecasting in Shanghai with a novel sequence-to-sequence model. <br>
-        <i>International Journal of Environmental Research and Public Health, 17(24), 9471.</i> 
-        <a href="https://doi.org/10.3390/ijerph17249471">DOI</a>
+        <i>International Journal of Environmental Research and Public Health, 17(24), 9471.</i> <a href="https://doi.org/10.3390/ijerph17249471">PDF</a>
     </div>
     <div class="publication">
         Wang, D., Wang, H. W.*, Lu, K. F., Peng, Z. R., & Zhao, J. (2022). <br>
         Regional Prediction of Ozone and Fine Particulate Matter Using Diffusion Convolutional Recurrent Neural Network. <br>
-        <i>International Journal of Environmental Research and Public Health, 19(7), 3988.</i> <br>
-        <a href="https://doi.org/10.3390/ijerph19073988">DOI</a>
+        <i>International Journal of Environmental Research and Public Health, 19(7), 3988.</i> <a href="https://doi.org/10.3390/ijerph19073988">PDF</a>
     </div>
     
     <h2>Prediction and Planning for Electrified & Autonomous Transportation</h2>
