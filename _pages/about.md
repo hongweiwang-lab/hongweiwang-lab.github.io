@@ -100,52 +100,44 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
     <div class="publication">
         Xing, Y., Wu, Y., Wang, H. W, Wang, L., Li, L., & Peng, Y. (2025). <br>
         Failed lane-changing detection and prediction using naturalistic vehicle trajectories. <br>
-        <i>Transportation Research Part C: Emerging Technologies, 170, 104939.</i> <br>
-        <a href="https://doi.org/10.1016/j.trc.2024.104939">DOI</a>
+        <i>Transportation Research Part C: Emerging Technologies, 170, 104939.</i> <a href="https://doi.org/10.1016/j.trc.2024.104939">PDF</a>
     </div>
     <div class="publication">
         Wang, H. W, Song, J., & Li, X. (2024). <br>
         A Survey of Electric Vehicles in Sustainable Systems: Environmental Benefits, Pattern Analysis, and AI-Driven Operation Methodologies. <br>
-        <i>CHAIN, 1(3), 177-202.</i> <br>
-        <a href="https://doi.org/10.23919/CHAIN.2024.000009">DOI</a>
+        <i>CHAIN, 1(3), 177-202.</i> <a href="https://doi.org/10.23919/CHAIN.2024.000009">PDF</a>
     </div>
     <div class="publication">
         Xing, Y., Wu, Y., Zhang, S., Wang, L., Cui, H., Jia, B., & Wang, H. W  (2024). <br>
         Discovering latent themes in aviation safety reports using text mining and network analytics. <br>
-        <i>International Journal of Transportation Science and Technology, 16, 292-316.</i>
-        <a href="https://doi.org/10.1016/j.ijtst.2024.02.009">DOI</a>
+        <i>International Journal of Transportation Science and Technology, 16, 292-316.</i> <a href="https://doi.org/10.1016/j.ijtst.2024.02.009">PDF</a>
     </div>
     
     <h2>Data-Driven Spatiotemporal Modeling for Resilient and Sustainable Transportation</h2>
     <div class="publication">
         Lu, K. F., Wang, H. W., Li, X. B., Peng, Z. R.*, He, H. D., Wang, Z. P. (2021). <br>
         Assessing the effects of non-local traffic restriction policy on urban air quality. <br>
-        <i>Transport Policy, 115, 62-67.</i> <br>
-        <a href="https://doi.org/10.1016/j.tranpol.2021.11.005">DOI</a>
+        <i>Transport Policy, 115, 62-67.</i> <a href="https://doi.org/10.1016/j.tranpol.2021.11.005">PDF</a>
     </div>
     <div class="publication">
         Wu, C. L., Wang, H. W., Cai, W. J., Ni, A. N., Peng, Z. R.* (2021). <br>
         Impact of the COVID-19 lockdown on roadside traffic-related air pollution in Shanghai, China. <br>
-        <i>Building and Environment, 194, 107718.</i> <br>
-        <a href="https://doi.org/10.1016/j.buildenv.2021.107718">DOI</a>
+        <i>Building and Environment, 194, 107718.</i> <a href="https://doi.org/10.1016/j.buildenv.2021.107718">PDF</a>
     </div>
     <div class="publication">
         Cai, W. J., Wang, H. W., Wu, C. L., Lu, K. F., Peng, Z. R.*, He, H. D. (2021). <br>
         Characterizing the interruption-recovery patterns of urban air pollution under the COVID-19 lockdown in China. <br>
-        <i>Building and Environment, 205, 108231.</i> <br>
-        <a href="https://doi.org/10.1016/j.buildenv.2021.108231">DOI</a>
+        <i>Building and Environment, 205, 108231.</i> <a href="https://doi.org/10.1016/j.buildenv.2021.108231">PDF</a>
     </div>
     <div class="publication">
         Zheng, T., Wang, H. W., Li, X. B., Peng, Z. R.*, He, H. D. (2021). <br>
         Impacts of traffic on roadside particle variations in varied temporal scales. <br>
-        <i>Atmospheric Environment, 253, 118354.</i> <br>
-        <a href="https://doi.org/10.1016/j.atmosenv.2021.118354">DOI</a>
+        <i>Atmospheric Environment, 253, 118354.</i> <a href="https://doi.org/10.1016/j.atmosenv.2021.118354">PDF</a>
     </div>
     <div class="publication">
         Luo, Z. G., Wang, Z. Y., Wang, H. W., Peng, Z. R.* (2021). <br>
         Characterizing spatiotemporal distributions of black carbon and PM2.5 at a toll station: Observations on manual and electronic toll collection lanes. <br>
-        <i>Building and Environment, 199, 107933.</i> <br>
-        <a href="https://doi.org/10.1016/j.buildenv.2021.107933">DOI</a>
+        <i>Building and Environment, 199, 107933.</i> <a href="https://doi.org/10.1016/j.buildenv.2021.107933">PDF</a>
     </div>
 </body>
 </html>
