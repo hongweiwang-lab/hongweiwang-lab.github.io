@@ -30,6 +30,35 @@ My research spans several areas: AI-Driven Prediction & Optimization for Complex
 
 Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Transportation, Urban Computing -->
 
+## Work Experience
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Work Experience</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        h2 { color: #2c3e50; }
+        .work-item { margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+<!--     <h2>Work Experience</h2> -->
+    <div class="work-item">
+        <strong>Institute of High Performance Computing, Agency for Science, Technology & Research (A*STAR), Singapore</strong><br>
+        Senior Scientist <span style="float: right;">Jun. 2023 – Current</span>
+    </div>
+    <div class="work-item">
+        <strong>Huawei, Perception Department at Autonomous Driving Solution & Scenario Research at Smart Transportation Solution, Beijing, China</strong><br>
+        Research Scientist, Level 17 <span style="float: right;">Apr. 2022 – May 2023</span>
+    </div>
+    <div class="work-item">
+        <strong>DiDi Chuxing, Smart Transportation Lab, Beijing, China</strong><br>
+        Research Intern <span style="float: right;">Sep. 2018 – Feb. 2019</span><br>
+        Mentor: Dr. Weili Sun
+    </div>
+</body>
+<html>
+
 ## Education
 <html>
 <head>
@@ -42,7 +71,7 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
     </style>
 </head>
 <body>
-    <h2>Education Background</h2>
+<!--     <h2>Education Background</h2> -->
     <div class="education-item">
         <strong>Shanghai Jiao Tong University, Shanghai, China</strong> <span style="float: right;">Sep. 2013 – Jun. 2020</span><br>
         Ph.D. in Civil Engineering<br>
@@ -172,7 +201,6 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
         Characterizing spatiotemporal distributions of black carbon and PM2.5 at a toll station: Observations on manual and electronic toll collection lanes. <br>
         <i>Building and Environment, 199, 107933.</i> <a href="https://doi.org/10.1016/j.buildenv.2021.107933">PDF</a>
     </div>
-</body>
 </html>
 
 
