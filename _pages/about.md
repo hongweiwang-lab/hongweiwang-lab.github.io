@@ -57,7 +57,6 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
         Mentor: Dr. Weili Sun
     </div>
 </body>
-<html>
 
 ## Education
 <html>
@@ -89,7 +88,6 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
         Advisor: Prof. Fei Yang
     </div>
 </body>
-</html>
 
 
 ## News 
