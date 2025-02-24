@@ -47,12 +47,11 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
     </div>
     <div class="work-item">
         <strong>Huawei, Perception Department at Autonomous Driving Solution & Scenario Research at Smart Transportation Solution, Beijing, China</strong><br>
-        Research Scientist, Level 17 <span style="float: right;">Apr. 2022 – May 2023</span>
+        Research Scientist, Level 17 <span style="float: right;">Dec. 2020 – May 2023</span>
     </div>
     <div class="work-item">
         <strong>DiDi Chuxing, Smart Transportation Lab, Beijing, China</strong><br>
         Research Intern <span style="float: right;">Sep. 2018 – Feb. 2019</span><br>
-        Mentor: Dr. Weili Sun
     </div>
 </body>
 </html>
@@ -76,13 +75,10 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
     <div class="education-item">
         <strong>University of Florida, Gainesville, USA</strong> <span style="float: right;">Jan. 2016 – Jan. 2018</span><br>
         2-year Joint Ph.D. Student in Civil Engineering<br>
-        Sponsored by the China Scholarship Council (CSC)<br>
-        Co-Advisors: Prof. Lily Elefteriadou and Prof. Zhong-Ren Peng
     </div>
     <div class="education-item">
         <strong>Southwest Jiaotong University, Chengdu, China</strong> <span style="float: right;">Sep. 2009 – Jun. 2013</span><br>
         B.S. in Transportation Engineering<br>
-        Advisor: Prof. Fei Yang
     </div>
 </body>
 </html>
@@ -112,7 +108,6 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Research Publications</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 40px; }
         h2 { color: #2c3e50; }
@@ -122,10 +117,7 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
     </style>
 </head>
 <body>
-    <h2>Featured Research</h2>
-</body>
-<!--     <h1>Research Publications</h1> -->
-    
+  
     <h2>AI-Driven Prediction & Optimization for Complex Systems</h2>
     <div class="publication">
         Wang, H. W., Peng, Z. R., Wang, D., Meng, Y., Wu, T., Sun, W.*, Lu, Q. C.* (2020). <br>
@@ -152,7 +144,7 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
         Regional Prediction of Ozone and Fine Particulate Matter Using Diffusion Convolutional Recurrent Neural Network. <br>
         <i>International Journal of Environmental Research and Public Health, 19(7), 3988.</i> <a href="https://doi.org/10.3390/ijerph19073988">PDF</a>
     </div>
-    
+  
     <h2>Prediction and Planning for Electrified & Autonomous Transportation</h2>
     <div class="publication">
         Xing, Y., Wu, Y., Wang, H. W, Wang, L., Li, L., & Peng, Y. (2025). <br>
