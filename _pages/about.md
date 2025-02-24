@@ -53,7 +53,6 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
 
 
 ## Featured Research
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -67,7 +66,7 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
     </style>
 </head>
 <body>
-    <h1>Research Publications</h1>
+<!--     <h1>Research Publications</h1> -->
     
     <h2>AI-Driven Prediction & Optimization for Complex Systems</h2>
     <div class="publication">
