@@ -30,6 +30,43 @@ My research spans several areas: AI-Driven Prediction & Optimization for Complex
 
 Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Transportation, Urban Computing -->
 
+## Education
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Education</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        h2 { color: #2c3e50; border-bottom: 2px solid #2c3e50; padding-bottom: 5px; }
+        .section { margin-bottom: 30px; padding: 20px; border-radius: 5px; background-color: #f9f9f9; }
+        .education-item { margin-bottom: 15px; }
+    </style>
+</head>
+<body>
+<!--     <h1>Education</h1> -->
+    
+    <div class="section">
+        <h2>Education Background</h2>
+        <div class="education-item">
+            <strong>Shanghai Jiao Tong University, Shanghai, China</strong> <span style="float: right;">Sep. 2013 – Jun. 2020</span><br>
+            Ph.D. in Civil Engineering<br>
+            Advisor: Prof. Zhong-Ren Peng
+        </div>
+        <div class="education-item">
+            <strong>University of Florida, Gainesville, USA</strong> <span style="float: right;">Jan. 2016 – Jan. 2018</span><br>
+            2-year Joint Ph.D. Student in Civil Engineering<br>
+            Sponsored by the China Scholarship Council (CSC)<br>
+            Co-Advisors: Prof. Lily Elefteriadou and Prof. Zhong-Ren Peng
+        </div>
+        <div class="education-item">
+            <strong>Southwest Jiaotong University, Chengdu, China</strong> <span style="float: right;">Sep. 2009 – Jun. 2013</span><br>
+            B.S. in Transportation Engineering<br>
+            Advisor: Prof. Fei Yang
+        </div>
+    </div>
+</body>
+</html>
+
 
 ## News 
 <table style="width:100%">
