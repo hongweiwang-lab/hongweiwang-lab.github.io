@@ -31,18 +31,16 @@ My research spans several areas: AI-Driven Prediction & Optimization for Complex
 Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Transportation, Urban Computing -->
 
 ## Work Experience
+
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Work Experience</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 40px; }
-        h2 { color: #2c3e50; }
         .work-item { margin-bottom: 20px; }
     </style>
 </head>
 <body>
-<!--     <h2>Work Experience</h2> -->
     <div class="work-item">
         <strong>Institute of High Performance Computing, Agency for Science, Technology & Research (A*STAR), Singapore</strong><br>
         Senior Scientist <span style="float: right;">Jun. 2023 – Current</span>
@@ -57,20 +55,19 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
         Mentor: Dr. Weili Sun
     </div>
 </body>
+</html>
 
 ## Education
+
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Education</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 40px; }
-        h2 { color: #2c3e50; padding-bottom: 5px; }
         .education-item { margin-bottom: 15px; }
     </style>
 </head>
 <body>
-<!--     <h2>Education Background</h2> -->
     <div class="education-item">
         <strong>Shanghai Jiao Tong University, Shanghai, China</strong> <span style="float: right;">Sep. 2013 – Jun. 2020</span><br>
         Ph.D. in Civil Engineering<br>
@@ -88,7 +85,7 @@ Artificial Intelligence, Prediction & Optimization, Electrified & Autonomous Tra
         Advisor: Prof. Fei Yang
     </div>
 </body>
-
+</html>
 
 ## News 
 <table style="width:100%">
